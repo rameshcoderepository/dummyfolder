@@ -1,6 +1,4 @@
-Task Management System: Develop a task management system using Java Spring Boot and JSP. The application should allow users to create tasks, assign them to team members, and track their progress. You can also include features such as time tracking, project management, and reporting.hklfdhgkdfhgjkldfhjgkldfjkgkdfgljkfdhgkjl
 
-User Authentication: Implement user authentication and authorization using Spring Security to ensure that only authorized users can access the system.
 
 Task Creation: Create a form using JSP to allow users to create tasks. The form should include fields such as task title, description, due date, and priority level.
 
